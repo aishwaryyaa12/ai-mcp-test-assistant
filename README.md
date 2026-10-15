@@ -8,7 +8,7 @@ An innovative **Model Context Protocol (MCP)** server built in **Python** to emp
 - Error Log Analysis & Root Cause Triage.
 - Automated Jira Bug Draft Formatting.
 
-Developed by **[Aishwarya Shanmugam](https://linkedin.com/in/aishwaryaas)** (QA Engineer).
+Developed by **[Aishwarya Shanmugam](https://linkedin.com/in/aishwaryyaa12)** (QA Engineer).
 
 ---
 
@@ -25,7 +25,7 @@ The Model Context Protocol (MCP) is an open standard that connects AI models to 
 ## 🛠️ Installation & Usage
 
 ```bash
-git clone https://github.com/aishwaryaas/ai-mcp-test-assistant.git
+git clone https://github.com/aishwaryyaa12/ai-mcp-test-assistant.git
 cd ai-mcp-test-assistant
 
 pip install -r requirements.txt
@@ -37,4 +37,4 @@ python mcp_server.py
 ## 👩‍💻 Author
 **Aishwarya Shanmugam** — QA Engineer | Test Automation Specialist  
 📍 Steinenbronn (Stuttgart Region), Germany  
-🔗 [LinkedIn Profile](https://linkedin.com/in/aishwaryaas)
+🔗 [LinkedIn Profile](https://linkedin.com/in/aishwaryyaa12)
